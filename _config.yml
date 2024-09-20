@@ -1,4 +1,6 @@
 title : Jimmy's Portfolio
 description: My portfolio
 
-theme : jekll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
