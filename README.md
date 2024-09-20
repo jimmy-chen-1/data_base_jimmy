@@ -1,6 +1,6 @@
 # Jimmy's Portfolio
 for test only
-email information (galileosj@outlook.com)[galileosj@outlook.com]
+email information [galileosj@outlook.com]
 
 ## About Me
 
